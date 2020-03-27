@@ -4,7 +4,7 @@
       "userId": 1,
       "id": 1,
       "type": "Comedy",
-      "rating":2.9,
+      "rating":"2.9",
       "title": "Post 1",
       "Discr": "This is the discription on post 1."
     },
@@ -12,7 +12,7 @@
       "userId":2,
       "id": 2,
       "type": "Comedy",
-      "rating":4.9,
+      "rating":"4.9",
       "title": "Post 2",
       "Discr": "This is the discription on post 2."
     },
@@ -20,7 +20,7 @@
       "userId":2,
       "id": 2,
       "type": "Comedy",
-      "rating":4.3,
+      "rating":"4.3",
       "title": "Post 2",
       "Discr": "This is the discription on post 2."
     },
@@ -28,7 +28,7 @@
       "userId":3,
       "id": 3,
       "type": "Action",
-      "rating":2.8,
+      "rating":"2.8",
       "title": "Post 3",
       "Discr": "This is the discription on post 3."
     },
@@ -36,7 +36,7 @@
       "userId":4,
       "id": 4,
       "type": "Action",
-      "rating":3.5,
+      "rating":"3.5",
       "title": "Post 4",
       "Discr": "This is the discription on post 4."
     },
@@ -44,7 +44,7 @@
       "userId":5,
       "id": 5,
       "type": "Action",
-      "rating":3.8,
+      "rating":"3.8",
       "title": "Post 5",
       "Discr": "This is the discription on post 5."
     },
@@ -52,7 +52,7 @@
       "userId":6,
       "id": 6,
       "type": "Comedy",
-      "rating":4.2,
+      "rating":"4.2",
       "title": "Post 6",
       "Discr": "This is the discription on post 6."
     },
@@ -60,15 +60,15 @@
       "userId":7,
       "id": 7,
       "type": "Comedy",
-      "rating":5"
-,     "title": "Post 7",
+      "rating":"5",
+      "title": "Post 7",
       "Discr": "This is the discription on post 7."
     },
     {
       "userId":8,
       "id": 8,
       "type": "Action",
-      "rating":4.6,
+      "rating":"4.6",
       "title": "Post 8",
       "Discr": "This is the discription on post 8."
     },
@@ -76,15 +76,15 @@
       "userId":9,
       "id": 9,
       "type": "Comedy",
-      "rating":4"
-,     "title": "Post 9",
+      "rating":"4",
+      "title": "Post 9",
       "Discr": "This is the discription on post 9."
     },
     {
       "userId":10,
       "id": 10,
       "type": "Comedy",
-      "rating":2.6,
+      "rating":"2.6",
       "title": "Post 10",
       "Discr": "This is the discription on post 10."
     },
@@ -92,7 +92,7 @@
       "userId":11,
       "id": 11,
       "type": "Comedy",
-      "rating":3.6,
+      "rating":"3.6",
       "title": "Post 11",
       "Discr": "This is the discription on post 11."
     },
@@ -100,7 +100,7 @@
       "userId":12,
       "id": 12,
       "type": "Action",
-      "rating":3.4,
+      "rating":"3.4",
       "title": "Post 12",
       "Discr": "This is the discription on post 12."
     },
@@ -108,7 +108,7 @@
       "userId"14,
       "id": 13,
       "type": "Action",
-      "rating":3.4,
+      "rating":"3.4",
       "title": "Post 13",
       "Discr": "This is the discription on post 12."
     },
@@ -116,32 +116,32 @@
       "userId":14,
       "id": 14,
       "type": "Comedy",
-      "rating":4"
-,     "title": "Post 14",
+      "rating":"4",
+      "title": "Post 14",
       "Discr": "This is the discription on post 12."
     },
     {
       "userId":15,
       "id": 15,
       "type": "Comedy",
-      "rating":5"
-,     "title": "Post 15",
+      "rating":"5",
+      "title": "Post 15",
       "Discr": "This is the discription on post 12."
     },
     {
       "userId":16,
       "id": 16,
       "type": "Action",
-      "rating":2"
-,     "title": "Post 16",
+      "rating":"2",
+      "title": "Post 16",
       "Discr": "This is the discription on post 12."
     },
     {
       "userId":17,
       "id": 17,
       "type": "Comedy",
-      "rating":3"
-,     "title": "Post 17",
+      "rating":"3",
+      "title": "Post 17",
       "Discr": "This is the discription on post 12."
     }
   ],

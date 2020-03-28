@@ -139,7 +139,7 @@
     {
       "userId":18,
       "id": 18,
-      "type": "Comedy",
+      "type": "Action",
       "title": "Post 18",
       "Discr": "This is the discription on post 18.",
       "rating" : "3.5"
@@ -155,7 +155,7 @@
     {
       "userId":20,
       "id": 20,
-      "type": "Comedy",
+      "type": "Action",
       "title": "Post 20",
       "Discr": "This is the discription on post 20.",
       "rating" : "1.8"
@@ -163,7 +163,7 @@
     {
       "userId":21,
       "id": 21,
-      "type": "Comedy",
+      "type": "Action",
       "title": "Post 21",
       "Discr": "This is the discription on post 21.",
       "rating" : "3.1"

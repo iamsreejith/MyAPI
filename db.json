@@ -11,14 +11,6 @@
     {
       "userId":2,
       "id": 2,
-       "type": "Comedy",
-      "title": "Post 2",
-      "Discr": "This is the discription on post 2." ,
-      "rating" : "4.1"
-    },
-    {
-      "userId":2,
-      "id": 2,
         "type": "Comedy",
       "title": "Post 2",
       "Discr": "This is the discription on post 2." ,
@@ -133,7 +125,7 @@
       "id": 16,
       "type": "Action",
       "title": "Post 16",
-      "Discr": "This is the discription on post 12.",
+      "Discr": "This is the discription on post 16.",
       "rating" : "4.2"
     },
     {
@@ -141,8 +133,56 @@
       "id": 17,
       "type": "Comedy",
       "title": "Post 17",
-      "Discr": "This is the discription on post 12.",
+      "Discr": "This is the discription on post 17.",
       "rating" : "4.6"
+    },
+    {
+      "userId":18,
+      "id": 18,
+      "type": "Comedy",
+      "title": "Post 18",
+      "Discr": "This is the discription on post 18.",
+      "rating" : "3.5"
+    },
+    {
+      "userId":19,
+      "id": 19,
+      "type": "Comedy",
+      "title": "Post 19",
+      "Discr": "This is the discription on post 19.",
+      "rating" : "1.2"
+    },
+    {
+      "userId":20,
+      "id": 20,
+      "type": "Comedy",
+      "title": "Post 20",
+      "Discr": "This is the discription on post 20.",
+      "rating" : "1.8"
+    },
+    {
+      "userId":21,
+      "id": 21,
+      "type": "Comedy",
+      "title": "Post 21",
+      "Discr": "This is the discription on post 21.",
+      "rating" : "3.1"
+    },
+    {
+      "userId":22,
+      "id": 22,
+      "type": "Comedy",
+      "title": "Post 22",
+      "Discr": "This is the discription on post 22.",
+      "rating" : "4.8"
+    },
+    {
+      "userId":23,
+      "id": 23,
+      "type": "Action",
+      "title": "Post 23",
+      "Discr": "This is the discription on post 23.",
+      "rating" : "2.8"
     }
   ],
   "comments": [

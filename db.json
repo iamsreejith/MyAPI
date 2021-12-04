@@ -208,19 +208,8 @@
       "image":"https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60"
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {"id":1,"first_name":"Georgina","last_name":"Houltham","email":"ghoultham0@nhs.uk","gender":"Polygender","phone":"9155725475","date":"12/9/2020"},
+  "profiles": [
+    {"id":1,"first_name":"Georgina","last_name":"Houltham","email":"ghoultham0@nhs.uk","gender":"Polygender","phone":"9155725475","date":"12/9/2020"},
 {"id":2,"first_name":"Derk","last_name":"Farge","email":"dfarge1@jugem.jp","gender":"Female","phone":"2673181714","date":"5/30/2021"},
 {"id":3,"first_name":"Euphemia","last_name":"Bernardon","email":"ebernardon2@dedecms.com","gender":"Bigender","phone":"2502368467","date":"5/29/2021"},
 {"id":4,"first_name":"Kaitlyn","last_name":"Stuchberry","email":"kstuchberry3@joomla.org","gender":"Agender","phone":"3118233586","date":"1/3/2021"},
@@ -420,4 +409,4 @@
 {"id":198,"first_name":"Obidiah","last_name":"Parsisson","email":"oparsisson5h@who.int","gender":"Non-binary","phone":"9061371742","date":"11/12/2021"},
 {"id":199,"first_name":"Daron","last_name":"Lawless","email":"dlawless5i@telegraph.co.uk","gender":"Female","phone":"6761499295","date":"8/25/2021"},
 {"id":200,"first_name":"Veronike","last_name":"Maggiori","email":"vmaggiori5j@mit.edu","gender":"Bigender","phone":"8888345387","date":"11/10/2021"}
-}
+  ]
